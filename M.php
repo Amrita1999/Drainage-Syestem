@@ -1,6 +1,6 @@
 <?php
 	// Authorisation details.
-	$username = "saswatsahu99@gmail.com";
+	$username = "amrita.nayak3008@gmail.com";
 	$hash = "H7AdO8yZrXc-w0WxPqZktmvhjA4K1Sk2wf57AXZ9t9";
 
 	// Config variables. Consult http://api.textlocal.in/docs for more info.
